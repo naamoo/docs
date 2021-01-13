@@ -1,6 +1,6 @@
 ---
 title: 살림의료복지사회적협동조합 정관
-category: constitution
+category: 정관
 ---
 
 * TOC
